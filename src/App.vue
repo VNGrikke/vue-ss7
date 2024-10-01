@@ -20,6 +20,8 @@
     <B9 />
     <h1>b10</h1>
     <B10 />
+    <h1>b12</h1>
+    <B12 />
   </div>
 </template>
 
@@ -34,6 +36,7 @@ import B7 from "./components/bt7/parent.vue";
 import B8 from "./components/bt8/parent.vue";
 import B9 from "./components/bt9/parent.vue";
 import B10 from "./components/bt10/parent.vue"; 
+import B12 from "./components/bt12/parent.vue";
 </script>
 
 <style>
